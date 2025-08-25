@@ -11,8 +11,8 @@ A no-code automation that logs class attendance from Telegram messages directly 
 
 ![n8n Workflow](./images/workflow.png)
 ![Telegram bot](./images/bot.png)
-![Execution](./images/executed.png.png)
-![Google Sheet Data](./images/sheets.png.png)
+![Execution](./images/executed.png)
+![Google Sheet Data](./images/sheets.png)
 
 ## Usage
 
